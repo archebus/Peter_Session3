@@ -31,7 +31,7 @@ To run this project, you need to have the following installed:
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://your-repo-link-here
+    git clone git@github.com:archebus/Peter_Session3.git
     ```
 
 2. Navigate to the project directory:
