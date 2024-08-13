@@ -20,38 +20,7 @@ The application simulates a simple pizza ordering system. It allows you to:
 - **MySQL**
 - **LINQ**
 
-## Prerequisites
-
-To run this project, you need to have the following installed:
-- [.NET SDK](https://dotnet.microsoft.com/download)
-- [MySQL Server](https://dev.mysql.com/downloads/mysql/)
-- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) (optional, for database management)
-
-## Setup Instructions
-
-1. Clone the repository to your local machine.
-    ```bash
-    git clone git@github.com:archebus/Peter_Session3.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd Peter_Session3
-    ```
-
-3. Install the required .NET packages:
-    ```bash
-    dotnet restore
-    ```
-
-4. Update the connection string in the `PizzaContext` class with your MySQL credentials.
-
-5. Run the application:
-    ```bash
-    dotnet run
-    ```
-
-## How to Use
+## Important Methods
 
 The main entry point is the `Program.cs` file. You can test the following operations:
 
