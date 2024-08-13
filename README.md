@@ -36,7 +36,7 @@ To run this project, you need to have the following installed:
 
 2. Navigate to the project directory:
     ```bash
-    cd pizza-ordering-system
+    cd Peter_Session3
     ```
 
 3. Install the required .NET packages:
