@@ -2,6 +2,8 @@
 
 This is a basic C# console application that demonstrates CRUD (Create, Read, Update, Delete) operations using Entity Framework Core with a MySQL database. The project is part of a homework assignment focused on learning .NET Entity Framework and MySQL integration.
 
+I followed this guide: https://www.youtube.com/watch?v=SryQxUeChMc
+
 ## Project Overview
 
 The application simulates a simple pizza ordering system. It allows you to:
